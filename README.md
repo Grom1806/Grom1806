@@ -1,6 +1,6 @@
 # Привет, я Subhan! 👋😃
 
-![Banner](https://via.placeholder.com/1200x300?text=Halal+Dev+Journey)
+![Banner](file:///C:/Users/Elbrus_Service/Downloads/image.png)
 
 ---
 
