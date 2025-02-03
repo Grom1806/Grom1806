@@ -1,6 +1,6 @@
 # Привет, я Subhan! 👋😃
 
-![Banner](file:///C:/Users/Elbrus_Service/Downloads/image.png)
+![Banner](./image.png)
 
 ---
 
