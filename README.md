@@ -54,7 +54,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grom1806&theme=radical)
 
 <!-- График активности -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Grom1806&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Grom1806&bg_color=000000&color=ffffff&line=12f315&point=fb0909&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Трофеи GitHub -->
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Grom1806&theme=radical&column=8)](https://github.com/Grom1806)
